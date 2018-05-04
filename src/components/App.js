@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>My React-Webpack-Starter</h1>
+        <h1 className="title">My React-Webpack-Starter</h1>
       </div>
     )
   }
