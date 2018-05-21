@@ -17,6 +17,7 @@ npm run build
 ## Reference
 - [Repo](https://github.com/bradtraversy/react_webpack_starter)
 - [YouTube](https://www.youtube.com/watch?v=deyxI-6C2u4)
+- [Tutorial](https://love2.io/@hfpp2012/doc/webpack-tutorial/README.md)
 
 ## License ![openSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 MIT © [WeiChiaChang](https://github.com/WeiChiaChang)
