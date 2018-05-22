@@ -28,11 +28,6 @@ module.exports = {
       },
       {
         test: /\.scss$/,
-        // use: ExtractTextPlugin.extract({
-        //   fallback: 'style-loader',
-        //   //resolve-url-loader may be chained before sass-loader if necessary
-        //   use: ['css-loader', 'sass-loader']
-        // })
         use: cssDev,
       },
       {
