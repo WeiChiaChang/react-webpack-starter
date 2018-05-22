@@ -59,7 +59,7 @@ module.exports = {
     new CleanWebpackPlugin(pathsToClean),
     new ExtractTextPlugin('style.css'),
     new HtmlWebpackPlugin({
-      template: './src/index.html',
+      template: './index.html',
       minify: {
         collapseWhitespace: true
       },
